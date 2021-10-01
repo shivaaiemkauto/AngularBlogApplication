@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Blog posts 1",
+      "content": "Sample data"
+    },
+    {
+      "id": 2,
+      "title": "Blog posts 2",
+      "content": "Sample data"
+    },
+    {
+      "id": 3,
+      "title": "New post test 1",
+      "content": "Testing the post"
+    }
+  ]
+}
